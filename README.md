@@ -95,6 +95,5 @@ This project addresses the challenge of accent variability in speech recognition
 For questions or collaborations, feel free to reach out:
 
 📧 **Email**: ruchitha1904@gmail.com  
-🔗 **LinkedIn**: [Ruchitha Paccha](https://www.linkedin.com/in/ruchitha-chowdary-paccha)  
-📁 **GitHub Repo**: *(add your repo link here)*  
+🔗 **LinkedIn**: [Ruchitha Paccha](https://www.linkedin.com/in/ruchitha-chowdary-paccha) 
 
