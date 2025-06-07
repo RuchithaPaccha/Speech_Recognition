@@ -2,7 +2,9 @@
 This project addresses the challenge of accent variability in speech recognition, particularly within e-learning environments, by developing a robust, accent-agnostic speech transcription system using deep learning techniques. Leveraging MFCCs for feature extraction and comparing RNN, LSTM, and GRU architectures, the GRU-based model demonstrated superior performance, making a meaningful step toward inclusive and accessible education for all.
 
 🧠 Project Overview
+
 🎯 Objective: Build a speech recognition model that performs accurately across diverse English accents to improve transcription reliability in digital learning environments.
+
 📦 Dataset: Mozilla Common Voice – multilingual dataset rich in diverse accents.
 🔍 Techniques Used:
 Feature Extraction: Mel-Frequency Cepstral Coefficients (MFCCs)
